@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hvac-service-phoenix-az.netlify.app/sitemap.xml
